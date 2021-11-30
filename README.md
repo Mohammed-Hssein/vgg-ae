@@ -1,0 +1,1 @@
+VGG-like auto encoder
