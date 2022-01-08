@@ -1,1 +1,1 @@
-# VGG-like auto encoder
+# VGG-Based auto encoder
